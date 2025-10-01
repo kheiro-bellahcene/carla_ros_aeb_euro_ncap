@@ -1,4 +1,4 @@
-# Implementation and Validation of an AEB System Using CARLA
+# Implementation and Validation of an AEB System Using CARLA Simulator
 
 
 Simulation and validation of an Automatic Emergency Braking (AEB) system using CARLA and ROS according to Euro NCAP protocols.
